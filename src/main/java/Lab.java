@@ -13,6 +13,7 @@ public class Lab {
      * event happens, like running out of computer memory.
      */
     public void throwUncheckedException(){
-
+        int a=1;
+        int b = a/0;
     }
 }
